@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'will_paginate-bootstrap'
+gem 'will_paginate', '~> 3.0.6'
+gem 'bootstrap_form'
+gem 'bootstrap-sass', '~> 3.3.3'
+gem 'carrierwave'
 gem 'starter_generators'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
